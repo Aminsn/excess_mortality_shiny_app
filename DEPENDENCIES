@@ -1,0 +1,11 @@
+Depends: 
+  R (>= 4.0.0),
+  shiny (>= 1.5.0)
+
+Imports:
+  tidyverse,
+  lubridate,
+  leaflet,
+  tigris,
+  spdplyr,
+  shinycssloaders
